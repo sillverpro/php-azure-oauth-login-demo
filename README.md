@@ -116,4 +116,4 @@ This file exchanges the authorization code for tokens using Microsoft's token en
 ---
 
 # 📄 License
-MIT License — free to use in personal and commercial projects.
+MIT [LICENSE](LICENSE) — free to use in personal and commercial projects.
